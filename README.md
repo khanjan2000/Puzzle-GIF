@@ -2,7 +2,7 @@
 
 ![](output.gif)
 
-<h1>Puzzle is the puzzle.</br>
+<h2>Puzzle is the puzzle.</h2>
 this puzzle consists of one more puzzle inside it.</br>
 <hr>
  Here is a link to my first writing.</br>
