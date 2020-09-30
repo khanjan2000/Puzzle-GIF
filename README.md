@@ -2,6 +2,8 @@
 
 ![](output.gif)
 
+## Puzzle - GIF 
+
 <h1>Puzzle is the puzzle.</br>
 this puzzle consists of one more puzzle inside it.</br>
 Here is a link to my first writing.</br>
